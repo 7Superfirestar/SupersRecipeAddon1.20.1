@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.5,
+  "group": "leather",
+  "ingredient": {
+    "tag": "forge:rotten_flesh"
+  },
+  "result": "minecraft:leather",
+  "count": 1
+}
