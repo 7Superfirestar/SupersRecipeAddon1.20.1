@@ -9,7 +9,7 @@ Current recipes:
 
 - Saddle from leather
 
-- Iron, golden and diamond horse armor are now craftable
+- Craftable iron, gold, and diamond horse armor
 
 
 Tags are defined in resources/data/forge/tags/items if you want to make your mod compatible with this one (synthetic leather/wool, etc.)
