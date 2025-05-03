@@ -5,8 +5,8 @@
   "experience": 1.5,
   "group": "leather",
   "ingredient": {
-    "tag": "forge:rotten_flesh"
+    "tag": "forge:saddles"
   },
   "result": "minecraft:leather",
-  "count": 1
+  "count": 3
 }
