@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#L#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:netherrack"
+    },
+    "L": {
+      "tag": "forge:buckets/lava_bucket",
+      "container": "minecraft:bucket"
+    }
+  },
+  "result": {
+    "item": "minecraft:magma_block",
+    "count": 8
+  }
+}

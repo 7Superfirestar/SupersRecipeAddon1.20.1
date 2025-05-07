@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:fertilizers/bone_meal"
+    },
+    {
+      "tag": "forge:dirt_blocks"
+    },
+    {
+      "tag": "forge:vines"
+    }
+  ],
+  "result": {
+    "item": "minecraft:moss_block",
+    "count": 4
+  }
+}

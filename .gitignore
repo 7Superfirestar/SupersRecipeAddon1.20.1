@@ -1,25 +1,32 @@
-# eclipse
-bin
-*.launch
-.settings
-.metadata
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
 .classpath
 .project
+.settings/
+.metadata/
+*.launch
+bin/
+eclipse/
 
-# idea
-out
-*.ipr
-*.iws
-*.iml
-.idea
+# VSCode
+.vscode/
 
-# gradle
-build
-.gradle
-
-# other
-eclipse
-run
-
-# Files from Forge MDK
+# Forge MDK
+run/
 forge*changelog.txt
+
+# Gradle
+gradle.properties
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar  # keep this tracked
+!gradle/wrapper/gradle-wrapper.properties
+
+# Custom
+.env
+.build/

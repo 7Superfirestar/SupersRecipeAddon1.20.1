@@ -4,7 +4,7 @@
   "cookingtime": 1000,
   "experience": 1,
   "ingredient": {
-    "item": "forge:saddles"
+    "tag": "forge:saddles"
   },
   "result": "minecraft:leather",
   "count": 3
